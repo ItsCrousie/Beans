@@ -1,4 +1,4 @@
-# Beans
+# 🫘 Beans
 
 **Beans** is an unpretentious TypeScript budgeting **Progressive Web App (PWA)** for tracking recurring personal expenses and shared household costs.
 
